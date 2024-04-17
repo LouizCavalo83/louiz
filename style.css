@@ -1,8 +1,16 @@
-body {background-color: black;
+body {background-color: blue;
 }
-h1{color: blanchedalmond;
+h1 {color: rgb(255, 255, 255);
+text-align: center;
 }
-h2{color: blanchedalmond;
+h2 {color: rgb(0, 0, 0);
 }
-#imal {width: 500;
+#imagem {width: 50%;
+      margin-left: 20%;
+      border-style: solid;
+      border-color: black;
+      border-width: 5px;
+}
+body {border-color: black;
+     border-style: solid;
 }
